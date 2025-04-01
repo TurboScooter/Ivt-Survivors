@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: FootStamp_Settings
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: Gimmick Active
+    icon: {fileID: 2800000, guid: 989c16fdd4df2a847ae1a0543273b4b1, type: 3}
+    type: 102
+    parameter:
+      name: Gimmick_Active
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "Box\u2194Flower"
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Flower_Switch
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Color Change
+    icon: {fileID: 0}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Color_Change
+    labels: []
+  - name: Rainbow
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Rainbow_Active
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5730\u9762\u8ABF\u6574"
+    icon: {fileID: 0}
+    type: 203
+    parameter:
+      name: Ground_UI_Visible
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Ground_Adjust
+    labels: []
+  - name: "\u5224\u5B9A\u524D\u5F8C\u8ABF\u6574"
+    icon: {fileID: 0}
+    type: 203
+    parameter:
+      name: Judge_UI_Visible
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Judge_FrontBack
+    labels: []
+  - name: "\u5224\u5B9A\u4E0A\u4E0B\u8ABF\u6574"
+    icon: {fileID: 0}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: Judge_UpDown
+    labels: []

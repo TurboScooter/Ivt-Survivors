@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SnowSizeCurve
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 2
+  m_Width: 128
+  m_Height: 1
+  m_CompleteImageSize: 1020
+  m_MipsStripped: 0
+  m_TextureFormat: 18
+  m_MipCount: 8
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 0
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1020
+  _typelessdata: 00000000b17b2f3db6f5ac3defb0ff3d6cfc273e64eb4e3e0caa743e879e8c3e8a549e3e6679af3e6e0fc03efb18d03e6198df3ef48fee3e0d02fd3e7f78053f8f2f0c3f62a7123f23e1183ffadd1e3f159f243f9c252a3fbe722f3fa287343f7365393f5d0d3e3f8b80423f28c0463f5ccd4a3f55a94e3f3d55523f3ed2553f8321593f38445c3f853b5f3f9908623f9cac643fb728673f187e693fe8ad6b3f55b96d3f85a16f3fa667713fe00c733f6492743f54f9753fe242773f3570783f7882793fd97a7a3f7e5a7b3f97227c3f48d47c3fc4707d3f2ff97d3fb66e7e3f86d27e3fc7257f3fa5697f3f4a9f7f3fe2c77f3f93e47f3f92f67f3f00ff7f3f00ff7f3f91f67f3f95e47f3fe0c77f3f499f7f3fa4697f3fc7257f3f86d27e3fb76e7e3f2ff97d3fc4707d3f4ad47c3f97227c3f805a7b3fda7a7a3f7b82793f3770783fe442773f58f9753f6692743fe50c733fa967713f89a16f3f59b96d3fecad6b3f1c7e693fbb28673f9fac643f9d08623f8b3b5f3f3d445c3f8921593f44d2553f4355523f5ca94e3f63cd4a3f2ec0463f9280423f650d3e3f7b65393fa687343fc3722f3fa3252a3f1a9f243f00de1e3f28e1183f68a7123f962f0c3f8678053f1802fd3e0290ee3e6e98df3e0819d03e7a0fc03e7279af3e98549e3e8a9e8c3e14aa743e68eb4e3e70fc273ef0b0ff3dc0f5ac3dc07b2f3d00000000b17baf3c5253d63de8733b3ec679833ef8e6a63e3414c83e2a14e73ec3fc013f786b0f3f8edf1b3f5862273f30fd313f68b93b3f5aa0443f58bb4c3fbe13543fdeb25a3f0fa2603faaea653f00966a3f6dad6e3f433a723fdc45753f8cd9773fa8fe793f8abe7b3f86227d3ff2337e3f26fc7e3f78847f3f3ad67f3fc9fa7f3fc8fa7f3f3ad67f3f76847f3f26fc7e3ff3337e3f87227d3f8cbe7b3faafe793f8ed9773fdf45753f473a723f71ad6e3f04966a3fadea653f14a2603fe3b25a3fc413543f60bb4c3f60a0443f70b93b3f34fd313f5e62273f94df1b3f7f6b0f3fc9fc013f3814e73e4114c83e05e7a63eca79833eec733b3e5853d63dc07baf3c1f19813dba33613e967db73ed886f53e83a5153fc4af2c3fe12c403f8b67503f76aa5d3f5540683fd873703fb48f763f99de7a3f3cab7d3f4f407f3f82e87f3f81e87f3f4e407f3f3dab7d3f9bde7a3fb68f763fdc73703f5840683f7caa5d3f9267503fe82c403fc9af2c3f8aa5153fe586f53ea37db73ec033613e2419813d25e0103e3782d63ea42a213f364a483f66f5623fc681733fea447c3f68947f3f68947f3fec447c3fc981733f6af5623f3d4a483faa2a213f4482d63e29e0103e25798f3e6dba343f963b6b3fa9ec7d3faaec7d3f9a3b6b3f74ba343f2c798f3e0077fc3e2094743f2294743f0a77fc3ed067393fd467393fd267393f
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 

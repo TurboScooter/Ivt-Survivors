@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Quantum Particles Sparkle Preset Menu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 0a3f9af20ccc5414b82c1c95c71a1f2c, type: 2}
+  controls:
+  - name: Size
+    icon: {fileID: 2800000, guid: a189a0bf042b9d7419d64b7c5409cb98, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: QP_Sparkle_Size
+    labels: []
+  - name: Color
+    icon: {fileID: 2800000, guid: 816099e62944c33418875e6a44685e34, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: QP_Sparkle_Color
+    labels: []
+  - name: Rainbow
+    icon: {fileID: 2800000, guid: 1f3410116103c78448d8bcb0c15d2ad2, type: 3}
+    type: 102
+    parameter:
+      name: QP_Sparkle_Rainbow
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Frequency
+    icon: {fileID: 2800000, guid: d9230850dbf67d74a8bd46fa7ff6a42a, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: QP_Sparkle_Frequency
+    labels: []
+  - name: Active
+    icon: {fileID: 2800000, guid: 9f341e97ceb48b845b95f17d1372104d, type: 3}
+    type: 102
+    parameter:
+      name: QP_Type
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

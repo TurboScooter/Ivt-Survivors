@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Quantum Particles Fire Preset Menu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 25b92b03cbcda2f46b7abc4c29c9d7ea, type: 2}
+  controls:
+  - name: Left Fire
+    icon: {fileID: 2800000, guid: cd93088d758b4104484fe38e0a3fb7d0, type: 3}
+    type: 102
+    parameter:
+      name: QP_Fire_TypeLeft
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Left Shape
+    icon: {fileID: 2800000, guid: 6addaef555760de42b260f8587a50659, type: 3}
+    type: 102
+    parameter:
+      name: QP_Fire_TypeLeft
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Right Fire
+    icon: {fileID: 2800000, guid: 868c0202218a14f429c59c1cf01c1523, type: 3}
+    type: 102
+    parameter:
+      name: QP_Fire_TypeRight
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Right Shape
+    icon: {fileID: 2800000, guid: 0723dd163992ef34481cdc7b4a551606, type: 3}
+    type: 102
+    parameter:
+      name: QP_Fire_TypeRight
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Active
+    icon: {fileID: 2800000, guid: 9f341e97ceb48b845b95f17d1372104d, type: 3}
+    type: 102
+    parameter:
+      name: QP_Type
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

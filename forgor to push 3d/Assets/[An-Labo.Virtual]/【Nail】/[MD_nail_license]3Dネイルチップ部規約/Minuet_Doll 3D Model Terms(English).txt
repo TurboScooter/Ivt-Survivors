@@ -1,0 +1,91 @@
+﻿This text is an English translation of the Minuet_Doll 3D Model Terms of Use (online terms) (http://minuetdoll.info/3d/). In the event of any conflict between the Minuet_Doll 3D Model Terms of Use online terms and this English translation of the terms, the online terms shall prevail.
+=======================================================================================================
+
+Minuet_Doll 3D Model Terms
+
+
+These Minuet_Doll3D Model Terms of Use (hereinafter “these Terms”) are the terms that apply when Minuet_Doll (hereinafter “the First Party”), which is the seller of a 3D illustration and design model (hereinafter “the Product”), and the purchaser (hereinafter “the Second Party”) engage in usage and other services involving the Product (hereinafter “the Services”).
+
+Art. 1. About the Terms of Use
+1. A shortcut to the online terms (http://minuetdoll.info/3d/) and a text file containing these Terms are included in the Product. The online terms are included in these Terms, and in the event of any conflict between the online terms and the terms in the text file, the online terms shall prevail. In the event that the server is not operating normally, please consult the terms in the text file.
+2. These Terms apply to every person in the Second Party.
+3. The Second Party may not use the Services unless it consents to these Terms.
+4. Regardless of whether the Second Party using the Services consists of one or more individuals or whether it consists of a juridical person, at the time that the Second Party makes use of the Services, said Party will be deemed to have consented to these Terms.
+5. The content of these Terms may be modified as necessary, and notification of the modified content shall be provided either by posting the content in the online terms or by some other method specified by the First Party. In the event that these Terms are modified, then the first time that you use the Services after the modifications have been made, you will be deemed to have accepted the modifications and at that point the latest terms will apply, so please check the latest version of the Terms of Use whenever you use the Services.
+6. Please be sure to read these Terms before you use the Services.
+
+Art. 2. Content of the Services
+1. The Services consist of the First Party selling to the Second Party a 3D model produced by the First Party, and the First Party permitting the Product to be used on the condition that such use complies with the provisions of these Terms.
+2. The First Party shall not, for any reason, reimburse charges for the Product to the Second Party, and the Second Party may not, for any reason, return the Product to the First Party.
+
+Art. 3. How the Services are to be used, actions that are prohibited, etc.
+1. The Second Party is requested to use the Services in accordance with these Terms and in compliance with the Civil Code, the Commercial Code, the Act on the Protection of Personal Information, the Copyright Act, and other laws and regulations.
+2. The Second Party accepts full responsibility in connection with its use of the Services. Unless otherwise specifically stipulated, the First Party will bear no liability with regard to the Second Party’s use of the Services.
+3. The Second Party is prohibited from carrying out any of the acts listed below. 
+(1) Acts that violate these Terms.
+(2) Acts that violate, or might violate, laws or regulations.
+(3) Acts that infringe upon, or facilitate infringement upon, the rights of any third party.
+(4) Acts that the First Party deems to constitute interference with the Services.
+(5) Acts that contravene public order or standards of decency.
+(6) Acts of usage by the Second Party in which there is involvement by an anti-social force (where “anti-social force” refers to any organized crime group, member of an organized crime group, person for whom five years have not elapsed since he/she ceased to be a member of an organized crime group, quasi-member of an organized crime group, company related to an organized crime group, corporate extortionist, racketeering organization engaged in social-movement advocacy, organized crime group specializing in intellectual crimes, or the equivalent of any of these, with this connotation being the same hereinafter).
+(7) Acts that the First Party deems inappropriate.
+4. If the Second Party appears to have committed any of the prohibited acts specified in the preceding paragraph, or if the First Party deems any act committed by the Second Party to constitute any of said prohibited acts, then the First Party may, at its discretion, temporarily or permanently stop providing the Services to the Second Party, and the First Party shall bear no liability for any damage that this may cause the Second Party.
+
+Art. 4. Rights to the Product, and how the Product is to be used
+1. The First Party owns the intellectual property rights, etc., for the Product, i.e., for the 3D model and for the images of texture, etc., that appertain to the 3D model (hereinafter collectively referred to as “the 3D model”).
+2. Pursuant to the preceding paragraph, the First Party may post and publish the Product (i.e., the 3D model) as its own work on websites, on the sample pages of commission markets, and on portfolios, etc. The First Party shall bear no liability for any damage that this may cause the Second Party.
+3. Notwithstanding the provisions of the preceding paragraph, the First Party permits the Second Party to make use of the Product in the ways listed below. However, the Second Party shall accept full responsibility with regard to such use, and the First Party shall bear no liability whatsoever in connection with such use.
+(1) Rebuilding or modifying the Product (i.e., the 3D model) and converting the formats of the files.
+(2) Obtaining advertising revenue through the use of the Product (i.e., the 3D model).
+(3) Using the Product (i.e., the 3D model) in connection with support services for creators, such as gifting, so as to obtain support and/or donations from third parties.
+(4) Using the Product (i.e., the 3D model) to make images, videos, and/or games, to distribute videos, to stream live videos or broadcasts, or, via any of these actions, to obtain advertising revenue through commercials in images, videos, or games, through videos of games actually being played, or by other such means.
+(5) Providing items that one created using the Product (i.e., the 3D model), consisting of images, of videos, and/or of figures that are currently being used as avatars, for use as elements for images, videos, videos of games actually being played, or live broadcasts created by third parties (regardless of whether or not advertising revenue is involved), so long as this is done with the consent of the third parties.
+(6) Combining part or all of the Product (i.e., the 3D model) with other 3D models. (Examples of this would be using the face and/or clothes of the model as a foundation when the purchaser makes a new 3D model, or using the face and/or clothes as elements when the purchaser combines this model with a model created by a third party in order to make a new 3D model. In such cases, however, there would have to be no infringement of the copyrights or terms of other 3D models, and the purchaser would bear full responsibility with regard to the combination.)
+(7) Selling printed materials (i.e., physical collectors’ items, etc., produced privately by fans) using images of the Product (i.e., the 3D model), so long as the items offered for sale include some creative touches added by the purchaser. (Simply printing images of this model alone, without rebuilding or modifying it, is forbidden. If the images are to be combined with any work by a third party, this must be done without infringing on the copyrights or terms of third-party works, and the purchaser shall bear full responsibility with regard to the combination.)
+(8) Making decisions with regard to how to deal with secondary creations and/or fan art (such as illustrations or cosplay) involving figures that use the Product (i.e., the 3D model). However, such figures would have to include some creative touches added by the purchaser and, if the figures are to be combined with any work by a third party, this must be done without infringing on the copyrights or terms of third-party works.)
+4. The First Party prohibits the Second Party from using the Product in any of the ways listed below.
+(1) Distributing the Product (i.e., the 3D model, either in whole or in part, regardless of whether or not it has been rebuilt or modified), or reproducing it, or otherwise enabling a third party who has not purchased the Product to make use of the Product.
+(2) Selling the Product (i.e., the 3D model) itself, either in whole or in part, regardless of whether or not it has been rebuilt or modified.
+(3) Selling the data for actual images, videos, or games that have been made using the Product (i.e., the 3D model).
+
+Art. 5. Disclaimer
+1. The First Party does not warrant that the Services will not be affected by viruses, etc.
+2. The First Party shall bear no liability for any problem that may arise, either within the Second Party itself or between the Second Party and any third party, with regard to the Services.
+3. The First Party shall bear no liability for damages with regard to any damage arising due to natural disasters or other causes not attributable to the First Party, or any damage arising due to special circumstances (whether or not the circumstances were foreseen by the First Party), or any indirect damage (such as lost profits).
+
+Art. 6. Interruption or suspension of service, and modification or termination of content
+1. The First Party may discontinue sale of the Product, without the need for any prior notification to, or prior consent by, the Second Party, if the First Party deems this to be necessary in order to install equipment that is needed for the operation of the Services, or in order to perform system maintenance work, or as a result of a natural disaster or other force majeure.
+2. The First Party may, at its discretion, modify or terminate the content for part or all of the Services after giving advance notice to the Second Party.
+3. In the circumstances set forth in the preceding two paragraphs, the First Party shall bear no liability for any damage that the Second Party may incur.
+
+Art. 7. Confidentiality
+Each of the two parties shall handle with the due care of a prudent manager any confidential information (by which is meant personal information, customer information, company information, or any other information) that is disclosed or provided to it by the other party in connection with the use of the Services, and must neither use such information for purposes other than those of the Services, nor disclose or provide it to any third party, without the prior written consent of the other party.
+
+Art. 8. Exclusion of anti-social forces
+1. Each of the two parties shall represent and warrant that none of the situations listed below applies to it now or shall apply to it in the future.
+(1) That the party constitutes an anti-social force.
+(2) That the party maintains a relationship that is regarded as one in which an anti-social force controls the management of its business.
+(3) That the party maintains a relationship that is regarded as one in which an anti-social force is substantially involved in the management of its business.
+(4) That the party maintains a relationship that is regarded as one in which it is using an anti-social force in an unfair manner, such as for the purpose of seeking an unfair advantage for itself or a third party or for the purpose of inflicting damage on a third party.
+(5) That the party maintains a relationship that is regarded as one in which it is providing an anti-social force with funds, favors, etc.
+(6) That any of the party’s officers, or any person substantially involved in the management of the party’s business, maintains a socially condemnable relationship with an anti-social force.
+(7) That the party, either on its own or through a third party, damages the trust or obstructs the business of another person through means such as violent demands, threatening speech or behavior, unreasonable demands that exceed the recipient’s legal responsibility, the dissemination of rumors, fraud, or intimidation.
+2. If it becomes clear that either party has breached the representation and/or warranty set forth in the preceding paragraph and that even a single one of the items in the preceding paragraph applies to it, then the other party may, without any notice whatsoever, immediately cancel any and all agreements regarding the Services and claim compensation for any damage that it incurred.
+
+Art. 9. Transfer, etc., of rights and status
+Neither of the two parties may transfer any of its rights or obligations related to the Services or its status in connection with the Services, or sublease same, or pledge same as collateral, or dispose of same in any other form whatsoever except with the consent of the other party.
+
+Art. 10. Resolving of issues through consultation
+In the event that any doubts arise concerning matters not stipulated in these Terms or regarding how these Terms should be interpreted, the two parties shall consult together based on principles of good faith and seek to resolve the matter promptly.
+
+Art. 11. Court of jurisdiction
+For any litigation between the two parties, the agreed court of exclusive jurisdiction in the first instance shall be either the Tokyo District Court or the Tokyo Summary Court.
+
+Art. 12. Governing law
+These Terms shall be interpreted in accordance with the laws of Japan.
+
+Terms revised February 3rd, 2020
+
+=======================================================================================================
+
+Terms revised February 3rd, 2020

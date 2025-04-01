@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Controller menu-Kikyo
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: 32aa9508efec3b44f95c085ad3242767, type: 2}
+  controls:
+  - name: 
+    icon: {fileID: 2800000, guid: d83f3879377de3e46bf92bfbd9e9cab5, type: 3}
+    type: 102
+    parameter:
+      name: DE-R C
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: DE
+    icon: {fileID: 2800000, guid: c9b0264ffa19abe438c910840aef6ed2, type: 3}
+    type: 102
+    parameter:
+      name: DE-L R C
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 
+    icon: {fileID: 2800000, guid: 05faf3de3a719204dab77febc1c9f532, type: 3}
+    type: 102
+    parameter:
+      name: DE-L C
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 
+    icon: {fileID: 2800000, guid: b6958ecb7fc1e3941ae0b1b47b4c56c0, type: 3}
+    type: 102
+    parameter:
+      name: DE-Off exp
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: 
+    icon: {fileID: 2800000, guid: 222702b487b4eb04e8f945a3469616e5, type: 3}
+    type: 102
+    parameter:
+      name: DE-Pause
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

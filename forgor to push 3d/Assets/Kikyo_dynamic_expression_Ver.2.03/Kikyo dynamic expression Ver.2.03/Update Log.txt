@@ -1,0 +1,115 @@
+Kikyo dynamic expression Ver.1.1  2022/9/22
+1. VRCSDK.8.29とFXアニメーションレイヤーAllPartsが存在するMaskでAnimatorアニメーションフレームがある表情に切り替えるとジェスチャーが固まる問題を回避するために表情アニメーションでAnimatorアニメーションフレームを削除しました。
+2. Dynamic expression FX」アップデート ---- Emotionアニメーション管理による「眼睛移动禁止」パラメータと「眼睛移动禁止」アニメーションを追加しました。
+3. 3. 「Dynamic expression FX」を更新 ---- 表情アニメーションから口ブロックを削除し、表情アニメーションを自動的に口アニメーションに上書きするように設定しました。これにより、通常の話し方でジェスチャー表情を作ることができるようになりました。
+4. Dynamic expression FX」の更新 ---- 左右の胸付近の表情アニメーションの遷移を調整しました。
+4. バストトリガーの表情に衝突した際に、表情オフボタンを再スイッチングしないようにしました。
+5. 5.全ての表情アニメーションを変更し、細部まで作り込んで追加
+6. プレハブ」アップデート ---- 頭を撫でる範囲が広がり、位置が調整されました。
+7. Liltoonを1.3.6にアップデートしました。
+
+Kikyo dynamic expression Ver.1.11  2023/2/9
+
+1. [Dynamic expression FX] アニメーションコントローラのアップデート --- [Dynamic expression FX] でエクスプレッションを切り替えると、目を閉じる動作が重なってしまう問題を修正。
+
+Kikyo dynamic expression Ver.1.12  2023/2/14
+
+1. 拳のモーションジェスチャーアニメーションに耳のアニメーションを追加しました。
+2. 「Dynamic expression FX」アニメーションコントローラのアップデート --- 「表情」アニメーションレイヤーに「AFK空表情」のアニメーション遷移を追加、AFK表情と衝突する問題を修正しました。
+3. [Dynamic expression FX] アニメーションコントローラー更新 --- アニメーションレイヤー「Blend 手势-」を追加、ジェスチャー表現で頭頂部を撫でると目を閉じたりまばたきする不具合を修正。
+
+Kikyo dynamic expression Ver.1.13  2023/4/26
+
+1. 全てのテクスチャーマップサイズを圧縮
+2. 冗長なShaderキーワードを削除する
+
+Kikyo dynamic expression Ver.2.01 2024/1/25
+
+1.Kikyo dynamic expression Ver.2.00 大型アップデート発表
+
+Kikyo dynamic expression Ver.2.02 2024/5/18
+
+1. アニメーションのパーティクルを変更 [4 Smile单闭眼笑] [4 Smile闭眼笑]。
+2. アニメーション[Chewing Loop  咀嚼循]で、口を開けて咀嚼するアニメーションのリトリガーが発動しにくいことがある問題を修正しました。
+
+Kikyo dynamic expression Ver.2.03 2024/5/21
+
+1.[Pat pat][exclude]頭頂部に触れる コンタクトは、指が頭頂部に突き刺さったり、頭頂部に触れるコンタクトがキャンセルされたりするのを減らすために、手だけを残す指の相互作用を取り除きます。
+
+
+Kikyo dynamic expression Ver.1.1  2022/9/22
+1. Deleted Animator animation frames in expression animation to avoid the problem that VRCSDK.8.29 and FX animation layer AllParts exist Mask will cause the gesture to be stuck when switching to an expression with Animator animation frames.
+2. 'Dynamic expression FX' update ---- added 'Eye Move off' parameter and '眼睛移动禁止' animation by Emotion animation management.
+3. 'Dynamic expression FX' updated ---- to remove mouth blocking from expression animations and set expression animations to be automatically overwritten by mouth animations. Now the gesture expressions can be made with normal speech patterns.
+4. 'Dynamic expression FX' update ---- Adjusted the transition of expression animation near the left and right breasts.
+4. Won't re-switch the expression off button when colliding with the breast trigger expression.
+5. All expression animations have been changed and added with lots of details
+6. 'Prefab' update ---- head petting range increased and position adjusted
+7. Liltoon updated to 1.3.6
+
+Kikyo dynamic expression Ver.1.11  2023/2/9
+
+1.[Dynamic expression FX] animation controller update --- fixed the problem of overlapping eye closing when switching expressions in [Dynamic expression FX].
+
+Kikyo dynamic expression Ver.1.12  2023/2/14
+
+1. Added ear animation to Motion gesture animation of fist
+2. [Dynamic expression FX] animation controller update --- [表情] animation layer added [AFK空表情] animation transition, fixed the problem of conflict with AFK expression.
+3. [Dynamic expression FX] Animation controller update --- New animation layer [Blend 手势-], fixed the problem of closing the eyes or blinking when using gesture expression and petting the top of the head.
+
+Kikyo dynamic expression Ver.1.13  2023/4/26
+
+1. Compressed the size of all texture maps
+2. Delete the redundant Shader Keywords
+
+Kikyo dynamic expression Ver.2.01 2024/1/25
+
+1.Kikyo dynamic expression Ver.2.00 Big Update Release
+
+Kikyo dynamic expression Ver.2.02 2024/5/18
+
+1. Changed particles in animation [4 Smile单闭眼笑] [4 Smile闭眼笑].
+2. Animation [Chewing Loop  咀嚼循环] fixed the problem that retriggering the open mouth chewing animation was sometimes difficult to trigger.
+
+Kikyo dynamic expression Ver.2.03 2024/5/21
+
+1.[Pat pat][exclude]Touching the top of the head Contact removes the finger interaction keeping only the hand to reduce fingers poking into the top of the head and causing the canceling of the touching the top of the head interaction.
+
+
+Kikyo dynamic expression Ver.1.1  2022/9/22
+1.删掉了表情动画中的Animator动画帧，避免VRCSDK.8.29版本和FX动画层AllParts存在Mask会导致当切换到存在Animator动画帧的表情时会卡住手势的问题。
+2.‘Dynamic expression FX’ 更新----新增‘Eye Move off’参数和‘眼睛移动禁止’动画，由表情动画管理.
+3.‘Dynamic expression FX’ 更新----取消表情动画的口型屏蔽，表情动画设置为口型动画自动覆盖。现在做出手势表情的同时可以正常有说话口型。
+4.‘Dynamic expression FX’ 更新----靠近左右胸部的表情动画过渡调整。
+4.碰撞到胸部触发表情的时候不会重新开关表情关闭按钮。
+5.所有表情动画大量细节进行了更改和增加
+6.‘预制体’更新----摸头范围增大和位置调整
+7.Liltoon更新到1.3.6
+
+Kikyo dynamic expression Ver.1.11  2023/2/9
+
+1.[Dynamic expression FX]动画控制器更新---修复了[Dynamic expression FX]中切换表情时会出现眼睛重叠闭合的问题
+
+Kikyo dynamic expression Ver.1.12  2023/2/14
+
+1.握拳的Motion手势动画加入耳朵动画
+2.[Dynamic expression FX]动画控制器更新---[表情]动画层新增[AFK空表情]动画过渡，修复了和AFK表情冲突的问题。
+3.[Dynamic expression FX]动画控制器更新---新增动画层[Blend 手势-]，修复了使用手势表情闭眼或者眨眼的瞬间并且抚摸头顶的时候闭眼过度的问题。
+
+Kikyo dynamic expression Ver.1.13  2023/4/26
+
+1.压缩了所有纹理贴图的大小
+2.删除了多余的Shader Keywords
+
+Kikyo dynamic expression Ver.2.01 2024/1/25
+
+1.Kikyo dynamic expression Ver.2.00 大更新发布
+
+Kikyo dynamic expression Ver.2.02 2024/5/18
+
+1.动画[4 Smile单闭眼笑][4 Smile闭眼笑]中的粒子更改。
+2.动画[Chewing Loop  咀嚼循环]修复了重新触发张嘴咀嚼动画有时候难以触发的问题。
+
+Kikyo dynamic expression Ver.2.03 2024/5/21
+
+1.[Pat pat][exclude]触摸头顶的Contact取消了手指的互动只保留手部，以减少手指戳进头顶而导致取消触摸头顶的互动。

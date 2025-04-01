@@ -1,0 +1,11 @@
+
+他にもフェイスメイクやテクスチャ素材を追加したい場合は、追加して保存するだけで、2つのテクスチャマップを上書きすることができます。 
+ボディについては、ボディテクスチャをマテリアルのものに置き換えるだけです。
+
+
+If you have other face makeup or texture mapping materials to add, just modify and add and save the two texture maps to override them.
+ For body modifications, just replace the body texture map in the material.
+
+
+如果你有其他脸部化妆或者贴图素材需要添加的话，只需要修改添加并且保存覆盖这两张贴图即可直接修改完成。
+身体的修改只需要直接替换材质中的那一张身体贴图即可。

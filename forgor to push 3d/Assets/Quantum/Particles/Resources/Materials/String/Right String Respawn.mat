@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Right String Respawn
+  m_Shader: {fileID: 4800000, guid: 4627125497fe4384da84143955a72aab, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - ATTR_FORCE_AFFECT_VELOCITY
+  - ATTR_FORCE_FIELD_DYNAMIC
+  - ATTR_FORCE_POINT
+  - ATTR_FORCE_TEX_LOCAL_SPACE
+  - DIR_FORCE_AFFECT_VELOCITY
+  - DIR_FORCE_FIELD_UNIFORM
+  - DIR_FORCE_LOCAL_SPACE
+  - DIR_FORCE_SHAPE_UNIFORM
+  - DRAG_FORCE_AFFECT_VELOCITY
+  - DRAG_FORCE_FIELD_UNIFORM
+  - DRAG_FORCE_POSITION
+  - INPUT_TEX_WORLD_SPACE
+  - ROT_FORCE_AFFECT_VELOCITY
+  - ROT_FORCE_DIST_AXIS
+  - ROT_FORCE_FIELD_UNIFORM
+  - ROT_FORCE_LOCAL_SPACE
+  - SPAWN_ADD_NONE
+  - SPAWN_AGE_KEEP
+  - SPAWN_CONDITION_AGE_OFF
+  - SPAWN_CONDITION_POS_OFF
+  - SPAWN_CONDITION_VEL_OFF
+  - SPAWN_LIFE_KEEP
+  - SPAWN_OFFSET_NONE
+  - SPAWN_ON
+  - SPAWN_POS_KEEP
+  - SPAWN_POS_TEX_LOCAL_SPACE
+  - SPAWN_RATE_ALL
+  - SPAWN_RESPAWN_ALWAYS
+  - SPAWN_SOURCE_SINGLE
+  - SPAWN_TEX_LOCAL_SPACE
+  - SPAWN_VEL_KEEP
+  - SPAWN_VEL_TEX_LOCAL_SPACE
+  - TURB_FORCE_AFFECT_VELOCITY
+  - TURB_FORCE_FIELD_UNIFORM
+  - TURB_FORCE_WORLD_SPACE
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AttrForceShapeOffsetTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AttrForceShapeTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AttrForceTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _InputTex:
+        m_Texture: {fileID: 8400000, guid: 79045fc64bd609a47bc565027aa5774a, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpawnAgeTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpawnLifeTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpawnOffsetTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpawnPosTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpawnTex:
+        m_Texture: {fileID: 2800000, guid: b237df7a1c2e09c43b22214ccf7bea81, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpawnVelTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints:
+    - _ShaderVersionSim: 65537
+    - _SimCount: 2
+    - _SimID: 1
+    - _SpawnPosLineEndSimID: 0
+    m_Floats:
+    - _AttrForceFieldFalloff: -2
+    - _AttrForceFieldLimit: 1
+    - _AttrForceFieldOffset: 0
+    - _AttrForceFieldStrength: 0.02
+    - _AttrForceShapeOffset: 1
+    - _DirForceFieldFalloff: 0
+    - _DirForceFieldLimit: 1
+    - _DirForceFieldOffset: 0
+    - _DirForceFieldStrength: 0.02
+    - _DirForceFunnelGradient: 1
+    - _DirForceFunnelInward: 1
+    - _DirForceWidth: 0
+    - _DragForceFieldFalloff: 0
+    - _DragForceFieldLimit: 1
+    - _DragForceFieldOffset: 0
+    - _DragForceFieldStrength: 0.02
+    - _RandSeed: 31193
+    - _RotForceAngle: 0
+    - _RotForceDistFactor: 0
+    - _RotForceFieldFalloff: 0
+    - _RotForceFieldLimit: 1
+    - _RotForceFieldOffset: 0
+    - _RotForceFieldStrength: 0.02
+    - _SimScale: 1
+    - _SimSpeed: 1
+    - _SpawnAddStrength: 1
+    - _SpawnAgeVal: 0
+    - _SpawnAgeVal2: 0
+    - _SpawnConditionAgeAbove: 1
+    - _SpawnConditionDistAbove: 1
+    - _SpawnConditionDistBelow: 0
+    - _SpawnConditionVelAbove: 1
+    - _SpawnConditionVelBelow: 0
+    - _SpawnLifeVal: 1
+    - _SpawnLifeVal2: 1
+    - _SpawnOffset: 1
+    - _SpawnPartialRate: 1
+    - _SpawnPosSphereRadius: 1
+    - _SpawnTimeErrorCompensation: 0.5
+    - _SpawnVelCentralDist: 1
+    - _SpawnVelSpeed: 1
+    - _SpeedLimit: 1
+    - _SpeedLoss: 0.3
+    - _TurbForceFieldFalloff: 0
+    - _TurbForceFieldLimit: 1
+    - _TurbForceFieldOffset: 0
+    - _TurbForceFieldStrength: 0.02
+    - _TurbForceTime: 1
+    m_Colors:
+    - _AttrForceTexPos: {r: 0, g: 0, b: 0, a: 0}
+    - _AttrForceTexRot: {r: 0, g: 0, b: 0, a: 0}
+    - _AttrForceTexRotMat1: {r: 1, g: 0, b: 0, a: 0}
+    - _AttrForceTexRotMat2: {r: 0, g: 1, b: 0, a: 0}
+    - _AttrForceTexRotMat3: {r: 0, g: 0, b: 1, a: 0}
+    - _AttrForceTexScale: {r: 1, g: 1, b: 1, a: 1}
+    - _DirForceDirection: {r: 0, g: 0, b: 0, a: 0}
+    - _InputTexPos: {r: 0, g: 0, b: 0, a: 0}
+    - _InputTexRot: {r: 0, g: 0, b: 0, a: 0}
+    - _InputTexRotMat1: {r: 1, g: 0, b: 0, a: 0}
+    - _InputTexRotMat2: {r: 0, g: 1, b: 0, a: 0}
+    - _InputTexRotMat3: {r: 0, g: 0, b: 1, a: 0}
+    - _InputTexScale: {r: 1, g: 1, b: 1, a: 1}
+    - _RotForceDirection: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnConditionPosAbove: {r: 1, g: 1, b: 1, a: 0}
+    - _SpawnConditionPosBelow: {r: -1, g: -1, b: -1, a: 0}
+    - _SpawnPosPoint: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnPosPoint2: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnPosTexPos: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnPosTexRot: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnPosTexRotMat1: {r: 1, g: 0, b: 0, a: 0}
+    - _SpawnPosTexRotMat2: {r: 0, g: 1, b: 0, a: 0}
+    - _SpawnPosTexRotMat3: {r: 0, g: 0, b: 1, a: 0}
+    - _SpawnPosTexScale: {r: 1, g: 1, b: 1, a: 1}
+    - _SpawnTexPos: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnTexRot: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnTexRotMat1: {r: 1, g: 0, b: 0, a: 0}
+    - _SpawnTexRotMat2: {r: 0, g: 1, b: 0, a: 0}
+    - _SpawnTexRotMat3: {r: 0, g: 0, b: 1, a: 0}
+    - _SpawnTexScale: {r: 1, g: 1, b: 1, a: 1}
+    - _SpawnVelTexRot: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnVelTexRotMat1: {r: 1, g: 0, b: 0, a: 0}
+    - _SpawnVelTexRotMat2: {r: 0, g: 1, b: 0, a: 0}
+    - _SpawnVelTexRotMat3: {r: 0, g: 0, b: 1, a: 0}
+    - _SpawnVelTexScale: {r: 1, g: 1, b: 1, a: 1}
+    - _SpawnVelVal: {r: 0, g: 0, b: 0, a: 0}
+    - _SpawnVelVal2: {r: 0, g: 0, b: 0, a: 0}
+    - _TurbForceDensity: {r: 1, g: 1, b: 1, a: 0}
+    - _TurbForcePanning: {r: 0, g: 0, b: 0, a: 0}
+    - _TurbForceScale: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

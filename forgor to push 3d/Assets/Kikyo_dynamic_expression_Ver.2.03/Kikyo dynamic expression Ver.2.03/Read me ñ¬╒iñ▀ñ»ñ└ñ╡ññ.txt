@@ -1,0 +1,97 @@
+【桔梗(Kikyo)用】Kikyo dynamic expression Ver.2.01/VRC Contact /桔梗の動的表情/Dynamic expression system
+https://rescery.booth.pm/items/4068933
+
+合計2グループの動的表情、ローカル表情UI表示、頭顔胸相互作用効果、口咀嚼相互作用。
+顔常駐フォームキーのカスタマイズスタッキングに対応、動的表情システムとオリジナル表情が共存、切り替え可能。表情の一時停止、継続、動的から静的への変更可能。
+
+目の瞬きアニメーション、左右コントローラ選択、口アニメーション、表情パーティクル、PSDファイル。
+頭を触ったり、胸に近づいたりする表現、頭を触ると速度に応じたパーティクルが発生、胸を叩いたり近づいたりすると表情がトリガー、指の動きに目が追従できる。
+頬を指でつついたり引っ張ったりするインタラクション表現、口を開ける表現、咀嚼表現システム。
+すべてのインタラクションとジェスチャー表現はスタック可能。
+MMDの世界では自動的に表情がブロックされ、本来の表情と共存できる仕組みになっており、切り替えスイッチもある。
+顔形状キーのカスタマイズアニメーションレイヤーがあり、顔のカスタマイズと表情のスタックが可能。
+咀嚼ボタンをONにすることができ、他のプレイヤーや自分の指や手が口に近づくと、距離に応じて口が大きく開き、近すぎると自動的に噛み付いて咀嚼する。
+
+A total of two groups of dynamic expressions, local expression UI display, head face breast interaction effect, mouth chewing interaction.
+Supports customized stacking of face resident form keys, dynamic expression system and original expression coexist and can be switched. Expression can be paused and continued, dynamic can be changed to static.
+
+Eye blink animation, left and right hand controller selection, mouth animation, expression particles and PSD files.
+Touching the head and approaching the breasts expressions, touching the head generates particles corresponding to the speed, hitting and approaching the breasts triggers the expression, the eyes can follow the finger movement.
+Interaction expressions for poking the cheeks with fingers and pulling the cheeks, opening the mouth and a chewing expression system.
+All interactions and gesture expressions are stackable.
+The MMD world automatically blocks expressions, and the system can coexist with the original expression and has a toggle switch.
+There is a face shape key customization animation layer that allows you to customize your face and stack it with your expressions.
+Chewing button can be turned on, when other players or your own fingers or hands are close to the mouth, the mouth will open wide according to the distance, and if it is too close, it will automatically bite down and chew.
+
+一共包含有两组动态表情、本地表情UI显示、头部脸部胸部互动效果，嘴部咀嚼互动。
+支持脸部常驻形态键自定义叠加，动态表情系统和原本表情共存并且可以切换。表情可暂停和继续播放，动态可变静态。
+
+眼睛眨眼动画、左右手控制器选择、嘴巴动画、表情粒子和PSD文件。
+抚摸头部和靠近胸部的表情，抚摸头部会产生与速度相应的粒子，击打和靠近胸部会触发表情，眼睛可以跟随手指移动。
+手指戳脸颊以及拉扯脸颊的互动表情，张开嘴以及咀嚼的表情系统。
+所有交互效果和手势表情都可以堆叠。
+MMD世界自动屏蔽表情，系统可以和原本的表情共存并且有切换开关。
+有脸部形态键自定义动画层可以自定义脸部并且与表情共存叠加。
+咀嚼按钮开启后别的玩家或者自己的手指或者手靠近嘴巴会根据距离张大，靠得过近会自动咬下咀嚼。
+
+The product does not include [オリジナル3Dモデル「桔梗」]
+Please buy on your own.
+
+商品中不包含 [オリジナル3Dモデル「桔梗」]。
+需要自行购入。
+
+商品には[オリジナル3Dモデル「桔梗」]は含まれていません。
+自分で購入する必要があります。
+
+オリジナル3Dモデル「桔梗」
+https://ponderogen.booth.pm/items/3681787
+
+PSDファイルが付属しており、必要に応じて修正したり、二次販売は禁止されています。
+
+使用方法
+
+Kikyo dynamic expression Ver.2.01のチュートリアル
+https://youtu.be/pV9u2BKFp7k
+
+Kikyo dynamic expression Ver.2.01 tutorial
+https://youtu.be/_ZyAIgfeNU4
+
+Kikyo dynamic expression Ver.2.01 使用教程
+https://youtu.be/QubkcqEFxn8
+https://www.bilibili.com/video/BV1Yc411x7ct
+
+
+利用規約
+
+再配布販売は禁止されています
+修正して自分で使うことができます
+ソースファイルの公開は許可されていません
+
+禁止再配布二次售卖
+可以修改自己使用
+禁止私自公开源文件
+禁止闲鱼等私自售卖盈利一律当做未经许可公开文件处理
+
+必要な準備
+
+The product does not include [オリジナル3Dモデル「桔梗」]
+Please buy on your own.
+
+商品中不包含 [オリジナル3Dモデル「桔梗」]。
+需要自行购入。
+
+商品には[オリジナル3Dモデル「桔梗」]は含まれていません。
+自分で購入する必要があります。
+
+オリジナル3Dモデル「桔梗」
+https://ponderogen.booth.pm/items/3681787
+
+Avatars 3.0 Manager
+https://github.com/VRLabs/Avatars-3.0-Manager/releases/latest
+
+連絡
+
+Discord -rescery#0713（rescery）
+QQ -807253985
+E-mail -807253985@qq.com
+X[Twitter] -https://twitter.com/rescery1

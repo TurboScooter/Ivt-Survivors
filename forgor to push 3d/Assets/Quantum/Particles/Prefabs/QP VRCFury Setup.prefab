@@ -1,0 +1,506 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1105959708279197068
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2911726731651579439, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_Name
+      value: Anchors
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5204901687443294521, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6881815540814673210, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: m_Name
+      value: QP VRCFury Setup
+      objectReference: {fileID: 0}
+    - target: {fileID: 7242516581770390651, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      propertyPath: latestValidExecutionGroupIndex
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4122192594702282990, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3563081245650052966}
+    - targetCorrespondingSourceObject: {fileID: 4122192594702282990, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 140665437422940390}
+    - targetCorrespondingSourceObject: {fileID: 4122192594702282990, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7984004000737816467}
+    - targetCorrespondingSourceObject: {fileID: 6248410966057460948, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3989853049864892352}
+    - targetCorrespondingSourceObject: {fileID: 7188504031172042492, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3686411939960410467}
+    - targetCorrespondingSourceObject: {fileID: 2871467881485558826, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 33495606151869810}
+    - targetCorrespondingSourceObject: {fileID: 6708302678160026650, guid: 5648ca48878585e4db8478ccdbf812c6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9208499838370643203}
+  m_SourcePrefab: {fileID: 100100000, guid: 5648ca48878585e4db8478ccdbf812c6, type: 3}
+--- !u!1 &2918518022337702310 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2871467881485558826, guid: 5648ca48878585e4db8478ccdbf812c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 1105959708279197068}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &33495606151869810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2918518022337702310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1151.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 4592199906665955337
+  references:
+    version: 2
+    RefIds:
+    - rid: 4592199906665955337
+      type: {class: ArmatureLink, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 6
+        linkMode: 3
+        propBone: {fileID: 2918518022337702310}
+        linkTo:
+        - useBone: 1
+          bone: 9
+          useObj: 0
+          obj: {fileID: 0}
+          offset: 
+        keepBoneOffsets2: 2
+        removeBoneSuffix: 
+        skinRewriteScalingFactor: 0
+        scalingFactorPowersOf10Only: 1
+        removeParentConstraints: 1
+        forceMergedName: 
+        forceOneWorldScale: 1
+        useOptimizedUpload: 0
+        useBoneMerging: 0
+        keepBoneOffsets: 0
+        physbonesOnAvatarBones: 0
+        boneOnAvatar: 0
+        bonePathOnAvatar: 
+        fallbackBones: 
+--- !u!1 &3922019745105837410 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4122192594702282990, guid: 5648ca48878585e4db8478ccdbf812c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 1105959708279197068}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3563081245650052966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3922019745105837410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1151.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 4592199906665955334
+  references:
+    version: 2
+    RefIds:
+    - rid: 4592199906665955334
+      type: {class: ArmatureLink, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 6
+        linkMode: 3
+        propBone: {fileID: 3922019745105837410}
+        linkTo:
+        - useBone: 0
+          bone: 0
+          useObj: 0
+          obj: {fileID: 0}
+          offset: 
+        keepBoneOffsets2: 2
+        removeBoneSuffix: 
+        skinRewriteScalingFactor: 0
+        scalingFactorPowersOf10Only: 1
+        removeParentConstraints: 1
+        forceMergedName: 
+        forceOneWorldScale: 0
+        useOptimizedUpload: 0
+        useBoneMerging: 0
+        keepBoneOffsets: 0
+        physbonesOnAvatarBones: 0
+        boneOnAvatar: 0
+        bonePathOnAvatar: 
+        fallbackBones: 
+--- !u!114 &140665437422940390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3922019745105837410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1151.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 4592199953376346112
+  references:
+    version: 2
+    RefIds:
+    - rid: 4592199953376346112
+      type: {class: FullController, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 4
+        controllers:
+        - controller:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 925ca255379df3149bb28e853ebe1c95|Assets/Quantum/Particles/Resources/Expressions/Quantum
+              Particles FX.controller
+            objRef: {fileID: 9100000, guid: 925ca255379df3149bb28e853ebe1c95, type: 2}
+          type: 5
+        menus:
+        - menu:
+            version: 1
+            fileID: 0
+            guid: 
+            id: df524cade3bfd6348b84af9499a3f72d|Assets/Quantum/Particles/Resources/Expressions/Quantum
+              Particles Menu.asset
+            objRef: {fileID: 11400000, guid: df524cade3bfd6348b84af9499a3f72d, type: 2}
+          prefix: Quantum Particles
+        prms:
+        - parameters:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 132d74da4e9dda141ace7564322cfc01|Assets/Quantum/Particles/Resources/Expressions/Quantum
+              Particles Parameters.asset
+            objRef: {fileID: 11400000, guid: 132d74da4e9dda141ace7564322cfc01, type: 2}
+        smoothedPrms: []
+        globalParams: []
+        allNonsyncedAreGlobal: 0
+        ignoreSaved: 0
+        toggleParam: 
+        rootObjOverride: {fileID: 0}
+        rootBindingsApplyToAvatar: 0
+        rewriteBindings:
+        - from: Quantum Particles
+          to: 
+          delete: 0
+        allowMissingAssets: 0
+        injectSpsDepthParam: 
+        injectSpsVelocityParam: 
+        controller:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        menu:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        parameters:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        submenu: 
+        removePrefixes: []
+        addPrefix: 
+        useSecurityForToggle: 0
+--- !u!114 &7984004000737816467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3922019745105837410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1151.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 4592199971186671656
+  references:
+    version: 2
+    RefIds:
+    - rid: 4592199971186671656
+      type: {class: SetIcon, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 1
+        path: Quantum Particles
+        icon:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 7ce4e56bd7db944489e79d258e04d698|Assets/Quantum/Particles/Resources/Expressions/Icons/particles.png
+          objRef: {fileID: 2800000, guid: 7ce4e56bd7db944489e79d258e04d698, type: 3}
+--- !u!1 &5927165647940739478 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6708302678160026650, guid: 5648ca48878585e4db8478ccdbf812c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 1105959708279197068}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9208499838370643203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5927165647940739478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1151.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 4592199906665955338
+  references:
+    version: 2
+    RefIds:
+    - rid: 4592199906665955338
+      type: {class: ArmatureLink, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 6
+        linkMode: 3
+        propBone: {fileID: 5927165647940739478}
+        linkTo:
+        - useBone: 1
+          bone: 10
+          useObj: 0
+          obj: {fileID: 0}
+          offset: 
+        keepBoneOffsets2: 2
+        removeBoneSuffix: 
+        skinRewriteScalingFactor: 0
+        scalingFactorPowersOf10Only: 1
+        removeParentConstraints: 1
+        forceMergedName: 
+        forceOneWorldScale: 0
+        useOptimizedUpload: 0
+        useBoneMerging: 0
+        keepBoneOffsets: 0
+        physbonesOnAvatarBones: 0
+        boneOnAvatar: 0
+        bonePathOnAvatar: 
+        fallbackBones: 
+--- !u!1 &6480671985497205080 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6248410966057460948, guid: 5648ca48878585e4db8478ccdbf812c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 1105959708279197068}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3989853049864892352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6480671985497205080}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1151.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 4592199906665955335
+  references:
+    version: 2
+    RefIds:
+    - rid: 4592199906665955335
+      type: {class: ArmatureLink, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 6
+        linkMode: 3
+        propBone: {fileID: 6480671985497205080}
+        linkTo:
+        - useBone: 1
+          bone: 29
+          useObj: 0
+          obj: {fileID: 0}
+          offset: 
+        keepBoneOffsets2: 2
+        removeBoneSuffix: 
+        skinRewriteScalingFactor: 0
+        scalingFactorPowersOf10Only: 1
+        removeParentConstraints: 1
+        forceMergedName: 
+        forceOneWorldScale: 0
+        useOptimizedUpload: 0
+        useBoneMerging: 0
+        keepBoneOffsets: 0
+        physbonesOnAvatarBones: 0
+        boneOnAvatar: 0
+        bonePathOnAvatar: 
+        fallbackBones: 
+--- !u!1 &7826018286014387056 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7188504031172042492, guid: 5648ca48878585e4db8478ccdbf812c6,
+    type: 3}
+  m_PrefabInstance: {fileID: 1105959708279197068}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3686411939960410467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7826018286014387056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1151.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 4592199906665955336
+  references:
+    version: 2
+    RefIds:
+    - rid: 4592199906665955336
+      type: {class: ArmatureLink, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 6
+        linkMode: 3
+        propBone: {fileID: 7826018286014387056}
+        linkTo:
+        - useBone: 1
+          bone: 44
+          useObj: 0
+          obj: {fileID: 0}
+          offset: 
+        keepBoneOffsets2: 2
+        removeBoneSuffix: 
+        skinRewriteScalingFactor: 0
+        scalingFactorPowersOf10Only: 1
+        removeParentConstraints: 1
+        forceMergedName: 
+        forceOneWorldScale: 0
+        useOptimizedUpload: 0
+        useBoneMerging: 0
+        keepBoneOffsets: 0
+        physbonesOnAvatarBones: 0
+        boneOnAvatar: 0
+        bonePathOnAvatar: 
+        fallbackBones: 

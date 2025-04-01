@@ -1,0 +1,56 @@
+【桔梗（Kikyo）リーファ（Leefa）用】髪・瞳の素材 Material for hair and eye/Eye texture/Matcap/髪の切り替え効果/kikyo eye and hair Ver.1.0/Leefa eye and hair Ver.1.0
+https://rescery.booth.pm/items/3799424
+
+PSDファイルが付属しており、必要に応じて修正したり、他のモデルで使用することができますが、二次販売は禁止されています。
+
+その他、メイクアップやタトゥーなどのテクスチャーを「Customization」フォルダに追加することで、アプリケーションを完成させることができます。
+
+
+製品に付属しているプレハブを使うか、素材やテクスチャ、PSDファイルを使うかです。
+
+You can directly use the prefabrication provided in the goods, or use materials or textures or PSD files
+
+可以直接使用商品中里面自带的预制体或者使用材质或者贴图或者PSD文件
+
+
+Kikyo
+まずKikyoのUnityパッケージをインポートし、次にkikyo eye and hair Ver.1.0のUnityパッケージをインポートしてください。
+\Assets\rescery\Kikyo Material 」フォルダ内の「Kikyo.prefab」を直接アップロードして使用することができます。
+
+Leefa
+まず「Leefa」ユニティパッケージをインポートし、次にLeefa eye and hair Ver.1.0 ユニティパッケージをインポートしてください。
+\Assets\rescery\Leefa Material」フォルダ内の「Leefa Variant.prefab」を直接アップロードして使用することができます。
+
+
+
+
+
+Kikyo
+Import the Kikyo Unity package first, then import the kikyo eye and hair Ver.1.0 Unity package.
+In the \Assets\rescery\Kikyo Material folder " Kikyo.prefab " can be uploaded directly for use.
+
+Leefa
+Import Leefa Unity package first, then import Leefa eye and hair Ver.1.0 Unity package.
+The "Leefa Variant.prefab" in the \Assets\rescery\Leefa Material folder can be uploaded directly for use.
+
+
+
+
+Kikyo
+先导入Kikyo Unity包，再导入kikyo eye and hair Ver.1.0 Unity包，
+在\Assets\rescery\Kikyo Material 文件夹中的“ Kikyo.prefab ”可以直接上传使用。
+
+Leefa
+先导入Leefa Unity包，再导入Leefa eye and hair Ver.1.0 Unity包，
+在\Assets\rescery\Leefa Material 文件夹中的 "Leefa Variant.prefab"可以直接上传使用。
+
+
+日本語字幕に桔梗とリーファの髪と目のテクスチャを使用するチュートリアル
+https://youtu.be/ty1UO5AfGDc
+
+English subtitles for Kikyo and Leefa hair eye material tutorial
+https://youtu.be/t99-MJKjRFA
+
+中文字幕的Kikyo和Leefa头发眼睛材质使用教程
+https://youtu.be/QU1mzdkNTF8
+https://www.bilibili.com/video/BV1VL4y1V7uV/
