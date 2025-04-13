@@ -1,20 +1,35 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class player : MonoBehaviour
 {
    public PlayerBase playerBase;
+    public ShopScriptableObj shop;
     float finalDamage;
+    public float attack;
+    public float attackSpeed;
+    public float hitPoints;
+    public float movementSpeed;
+    public float pickUpRadius;
+    public float critRate;
+    public float critDamage;
+    public float areaOfEffect;
+    public float collectedCoins;
+
     void Start()
     {
-        
+        attack = playerBase.attack;
+        attackSpeed = playerBase.attackSpeed;
+        hitPoints = playerBase.hitPoints; 
+        movementSpeed = playerBase.movementSpeed;
+        pickUpRadius = playerBase.pickUpRadius;
+        critRate = playerBase.critRate; 
+        critDamage = playerBase.critDamage;
+        areaOfEffect = playerBase.areaOfEffect;
     }
 
-    void Update()
-    {
-        
-    }
     private void FixedUpdate()
     {
         Movement();
@@ -32,7 +47,8 @@ public class player : MonoBehaviour
         playerBase.hitPoints -= damage;
         if(playerBase.hitPoints <= 0)
         {
-            Destroy(gameObject);
+            shop.coins += collectedCoins;
+            SceneManager.LoadScene(2);
         }
     }
     private void OnCollisionEnter(Collision collision)
@@ -40,4 +56,6 @@ public class player : MonoBehaviour
         if(collision.gameObject.CompareTag("Enemy"))
         DamageTaken(collision.gameObject.GetComponent<Enemy>().attackDamage);
     }
+
+    
 }

@@ -9,7 +9,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] float movementSpeed;
     public float attackDamage;
     [SerializeField] GameObject target;
-
+    [SerializeField] GameObject experienceOrb;
     void Start()
     {
         
@@ -25,10 +25,16 @@ public class Enemy : MonoBehaviour
         
     }
 
-    public void TakeDamage(int damage)
+    public void TakeDamage(float damage)
     {
         hitPoints -= damage;
         if (hitPoints <= 0) 
-        Destroy(gameObject);
+        {
+            Instantiate(experienceOrb);
+            Destroy(gameObject);
+        }
     }
+
+
+
 }

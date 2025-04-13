@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class Shop : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    public PlayerBase player;
+    public ShopScriptableObj shop;
 
-    // Update is called once per frame
-    void Update()
+
+    public void PermAtkUpgrade()
     {
-        
+      if(shop.coins >= shop.atkUpgradeCost && shop.atkUpgradeCount != shop.maxAtkUpgrades)
+        {
+            player.attack *= 1.06f;
+            shop.atkUpgradeCost += shop.atkUpgradeCostIncrease;
+            shop.atkUpgradeCount++;
+        }
     }
 }

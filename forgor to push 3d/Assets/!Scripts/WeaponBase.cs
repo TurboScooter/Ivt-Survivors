@@ -3,24 +3,64 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class WeaponBase : MonoBehaviour
+public class WeaponBase : WeaponStats
 {
-    public List<WeaponStats> stats;
-    public int level;
 
-    public void levelUp()
+
+    public bool fwUnlock = false;
+    public int fwLevel;
+    public void fireWandManager()
     {
-        if(level < stats.Count - 1)
+        if(fwUnlock)
         {
-            level++;
+
+        }   
+    }
+
+    public bool mwUnlock = false;
+    public int mwLevel;
+    public void MageWandManager()
+    {
+        if(mwUnlock)
+        {
+
         }
     }
 
+    public bool tbUnlock = false;
+    public int tbLevel;
+    public void TrowingBottleManager()
+    {
+        if(tbUnlock)
+        {
+
+        }
+    }
+
+    public bool lbUnlock = false;
+    public int lbLevel;
+    public void LavaBucketManager()
+    {
+        if(lbUnlock)
+        {
+
+        }
+    }
+
+    public bool whipUnlock = false;
+    public int whipLevel;
+    public void WhipManager()
+    {
+        if (whipUnlock)
+        {
+
+        }
+    }
     
 
 }
 [System.Serializable]
-public class WeaponStats
+public class WeaponStats : MonoBehaviour
 {
     public float attackSpeed;
     public float critRate;

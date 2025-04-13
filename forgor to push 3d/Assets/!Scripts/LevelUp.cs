@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LevelUp : MonoBehaviour
 {
-
+    [SerializeField] Upgrades upgrades;
     float hp;
     float atk;
     float movementSpeed;
@@ -16,38 +16,40 @@ public class LevelUp : MonoBehaviour
     float overflowExp;
     [SerializeField]float currentLevel;
     
-    GameObject upgradeMenu;
-    GameObject Button1;
-    GameObject Button2;
-    GameObject Button3;
-    GameObject Button4;
+    public GameObject upgradeMenu;
+
+
 
     private void Start()
     {
         currentLevel = 1;
-        //upgradeMenu.SetActive(false);
+        upgradeMenu.SetActive(false);
     }
 
     private void Update()
     {
         if(currentExp >= requiredExp)
         {
-            currentLevel++;
             overflowExp =  currentExp -= requiredExp;
             currentExp = 0;
             requiredExp = Mathf.RoundToInt(Mathf.Pow(4 * (currentLevel + 1), 2.1f)) - Mathf.RoundToInt(Mathf.Pow(4 * currentLevel, 2.1f));
             currentExp = overflowExp;
             overflowExp = 0;
+            currentLevel++;
 
             Upgrades();
 
         }
     }
-
+    bool listReset = false;
     void Upgrades()
     {
         upgradeMenu.SetActive(true);
+        
+        if(!listReset)
+        upgrades.baseNumberList = upgrades.possibleNumbers;
 
+        upgrades.pickUpgrades();
 
     }
 

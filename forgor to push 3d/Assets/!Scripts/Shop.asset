@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd8b22f973deb264a9aa3570721f4c3d, type: 3}
+  m_Name: Shop
+  m_EditorClassIdentifier: 
+  coins: 0
+  maxAtkUpgrades: 7
+  atkUpgradeCost: 0
+  atkUpgradeCostIncrease: 0
+  atkUpgradeCount: 0
+  maxCritRateUpgrades: 0
+  critRateUpgradeCost: 0
+  critRateUpgradeCostIncrease: 0
+  critRateUpgradeCount: 0
+  maxCritDamageUpgrades: 0
+  critDamageUpgradeCost: 0
+  critDamageUpgradeCostIncrease: 0
+  critDamageUpgradeCount: 0
+  maxHpUpgrades: 0
+  hpUpgradeCost: 0
+  hpUpgradeCostIncrease: 0
+  hpUpgradeCount: 0
+  maxMovementSpeedUpgrades: 0
+  movementSpeedUpgradeCost: 0
+  movementSpeedUpgradeCostIncrease: 0
+  movementSpeedUpgradeCount: 0
